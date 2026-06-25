@@ -1,0 +1,101 @@
+Order_ID,Date,Region,Customer,Category,Product,Quantity,Price,Sales
+1001,01-Jan-2026,North,Amit,Electronics,Laptop,4,50000,200000
+1002,02-Jan-2026,South,Priya,Electronics,Mouse,8,500,4000
+1003,03-Jan-2026,East,Rahul,Electronics,Keyboard,6,1500,9000
+1004,04-Jan-2026,West,Sneha,Electronics,Monitor,1,12000,12000
+1005,05-Jan-2026,North,Mohit,Electronics,Printer,2,8000,16000
+1006,06-Jan-2026,South,Neha,Electronics,Mobile,10,18000,180000
+1007,07-Jan-2026,East,Arjun,Electronics,Tablet,3,25000,75000
+1008,08-Jan-2026,West,Pooja,Electronics,Headphones,4,2000,8000
+1009,09-Jan-2026,North,Karan,Electronics,Speaker,6,3500,21000
+1010,10-Jan-2026,South,Anjali,Electronics,Smart Watch,10,9000,90000
+1011,11-Jan-2026,East,Riya,Electronics,Laptop,4,50000,200000
+1012,12-Jan-2026,West,Vikram,Electronics,Mouse,1,500,500
+1013,13-Jan-2026,North,Kavya,Electronics,Keyboard,10,1500,15000
+1014,14-Jan-2026,South,Akash,Electronics,Monitor,3,12000,36000
+1015,15-Jan-2026,East,Nisha,Electronics,Printer,1,8000,8000
+1016,16-Jan-2026,West,Deepak,Electronics,Mobile,3,18000,54000
+1017,17-Jan-2026,North,Simran,Electronics,Tablet,10,25000,250000
+1018,18-Jan-2026,South,Aarti,Electronics,Headphones,4,2000,8000
+1019,19-Jan-2026,East,Harsh,Electronics,Speaker,4,3500,14000
+1020,20-Jan-2026,West,Payal,Electronics,Smart Watch,7,9000,63000
+1021,21-Jan-2026,North,Amit,Electronics,Laptop,8,50000,400000
+1022,22-Jan-2026,South,Priya,Electronics,Mouse,8,500,4000
+1023,23-Jan-2026,East,Rahul,Electronics,Keyboard,4,1500,6000
+1024,24-Jan-2026,West,Sneha,Electronics,Monitor,1,12000,12000
+1025,25-Jan-2026,North,Mohit,Electronics,Printer,4,8000,32000
+1026,26-Jan-2026,South,Neha,Electronics,Mobile,4,18000,72000
+1027,27-Jan-2026,East,Arjun,Electronics,Tablet,1,25000,25000
+1028,28-Jan-2026,West,Pooja,Electronics,Headphones,10,2000,20000
+1029,29-Jan-2026,North,Karan,Electronics,Speaker,1,3500,3500
+1030,30-Jan-2026,South,Anjali,Electronics,Smart Watch,8,9000,72000
+1031,31-Jan-2026,East,Riya,Electronics,Laptop,7,50000,350000
+1032,01-Feb-2026,West,Vikram,Electronics,Mouse,4,500,2000
+1033,02-Feb-2026,North,Kavya,Electronics,Keyboard,4,1500,6000
+1034,03-Feb-2026,South,Akash,Electronics,Monitor,9,12000,108000
+1035,04-Feb-2026,East,Nisha,Electronics,Printer,7,8000,56000
+1036,05-Feb-2026,West,Deepak,Electronics,Mobile,6,18000,108000
+1037,06-Feb-2026,North,Simran,Electronics,Tablet,3,25000,75000
+1038,07-Feb-2026,South,Aarti,Electronics,Headphones,1,2000,2000
+1039,08-Feb-2026,East,Harsh,Electronics,Speaker,10,3500,35000
+1040,09-Feb-2026,West,Payal,Electronics,Smart Watch,7,9000,63000
+1041,10-Feb-2026,North,Amit,Electronics,Laptop,9,50000,450000
+1042,11-Feb-2026,South,Priya,Electronics,Mouse,7,500,3500
+1043,12-Feb-2026,East,Rahul,Electronics,Keyboard,1,1500,1500
+1044,13-Feb-2026,West,Sneha,Electronics,Monitor,4,12000,48000
+1045,14-Feb-2026,North,Mohit,Electronics,Printer,3,8000,24000
+1046,15-Feb-2026,South,Neha,Electronics,Mobile,8,18000,144000
+1047,16-Feb-2026,East,Arjun,Electronics,Tablet,5,25000,125000
+1048,17-Feb-2026,West,Pooja,Electronics,Headphones,9,2000,18000
+1049,18-Feb-2026,North,Karan,Electronics,Speaker,4,3500,14000
+1050,19-Feb-2026,South,Anjali,Electronics,Smart Watch,4,9000,36000
+1051,20-Feb-2026,East,Riya,Electronics,Laptop,4,50000,200000
+1052,21-Feb-2026,West,Vikram,Electronics,Mouse,9,500,4500
+1053,22-Feb-2026,North,Kavya,Electronics,Keyboard,2,1500,3000
+1054,23-Feb-2026,South,Akash,Electronics,Monitor,2,12000,24000
+1055,24-Feb-2026,East,Nisha,Electronics,Printer,1,8000,8000
+1056,25-Feb-2026,West,Deepak,Electronics,Mobile,10,18000,180000
+1057,26-Feb-2026,North,Simran,Electronics,Tablet,9,25000,225000
+1058,27-Feb-2026,South,Aarti,Electronics,Headphones,6,2000,12000
+1059,28-Feb-2026,East,Harsh,Electronics,Speaker,9,3500,31500
+1060,01-Mar-2026,West,Payal,Electronics,Smart Watch,1,9000,9000
+1061,02-Mar-2026,North,Amit,Electronics,Laptop,3,50000,150000
+1062,03-Mar-2026,South,Priya,Electronics,Mouse,6,500,3000
+1063,04-Mar-2026,East,Rahul,Electronics,Keyboard,4,1500,6000
+1064,05-Mar-2026,West,Sneha,Electronics,Monitor,10,12000,120000
+1065,06-Mar-2026,North,Mohit,Electronics,Printer,7,8000,56000
+1066,07-Mar-2026,South,Neha,Electronics,Mobile,9,18000,162000
+1067,08-Mar-2026,East,Arjun,Electronics,Tablet,3,25000,75000
+1068,09-Mar-2026,West,Pooja,Electronics,Headphones,7,2000,14000
+1069,10-Mar-2026,North,Karan,Electronics,Speaker,5,3500,17500
+1070,11-Mar-2026,South,Anjali,Electronics,Smart Watch,1,9000,9000
+1071,12-Mar-2026,East,Riya,Electronics,Laptop,2,50000,100000
+1072,13-Mar-2026,West,Vikram,Electronics,Mouse,7,500,3500
+1073,14-Mar-2026,North,Kavya,Electronics,Keyboard,7,1500,10500
+1074,15-Mar-2026,South,Akash,Electronics,Monitor,6,12000,72000
+1075,16-Mar-2026,East,Nisha,Electronics,Printer,3,8000,24000
+1076,17-Mar-2026,West,Deepak,Electronics,Mobile,4,18000,72000
+1077,18-Mar-2026,North,Simran,Electronics,Tablet,9,25000,225000
+1078,19-Mar-2026,South,Aarti,Electronics,Headphones,8,2000,16000
+1079,20-Mar-2026,East,Harsh,Electronics,Speaker,6,3500,21000
+1080,21-Mar-2026,West,Payal,Electronics,Smart Watch,4,9000,36000
+1081,22-Mar-2026,North,Amit,Electronics,Laptop,1,50000,50000
+1082,23-Mar-2026,South,Priya,Electronics,Mouse,3,500,1500
+1083,24-Mar-2026,East,Rahul,Electronics,Keyboard,5,1500,7500
+1084,25-Mar-2026,West,Sneha,Electronics,Monitor,9,12000,108000
+1085,26-Mar-2026,North,Mohit,Electronics,Printer,6,8000,48000
+1086,27-Mar-2026,South,Neha,Electronics,Mobile,5,18000,90000
+1087,28-Mar-2026,East,Arjun,Electronics,Tablet,3,25000,75000
+1088,29-Mar-2026,West,Pooja,Electronics,Headphones,4,2000,8000
+1089,30-Mar-2026,North,Karan,Electronics,Speaker,3,3500,10500
+1090,31-Mar-2026,South,Anjali,Electronics,Smart Watch,7,9000,63000
+1091,01-Apr-2026,East,Riya,Electronics,Laptop,3,50000,150000
+1092,02-Apr-2026,West,Vikram,Electronics,Mouse,10,500,5000
+1093,03-Apr-2026,North,Kavya,Electronics,Keyboard,3,1500,4500
+1094,04-Apr-2026,South,Akash,Electronics,Monitor,9,12000,108000
+1095,05-Apr-2026,East,Nisha,Electronics,Printer,10,8000,80000
+1096,06-Apr-2026,West,Deepak,Electronics,Mobile,4,18000,72000
+1097,07-Apr-2026,North,Simran,Electronics,Tablet,9,25000,225000
+1098,08-Apr-2026,South,Aarti,Electronics,Headphones,10,2000,20000
+1099,09-Apr-2026,East,Harsh,Electronics,Speaker,1,3500,3500
+1100,10-Apr-2026,West,Payal,Electronics,Smart Watch,5,9000,45000
