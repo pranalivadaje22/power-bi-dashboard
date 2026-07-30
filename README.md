@@ -17,6 +17,7 @@ Order Quantity Analysis
 Average Order Value (AOV)
 Clean Dark Theme UI
 Interactive Charts & Filters
+
 📈 Dashboard Preview
 
 Ecommerce Sales Dashboard
@@ -118,6 +119,7 @@ Purpose:
 
 Understand order volume.
 Compare orders with purchased quantity.
+
 📊 Key Performance Indicators (KPIs)
 KPI	Description
 Total Sales	Overall revenue generated
@@ -132,6 +134,7 @@ Data Modeling
 Data Cleaning
 Data Transformation
 Interactive Visualizations
+
 📂 Dataset Information
 
 The dashboard is built using an Ecommerce Sales Dataset containing:
@@ -145,6 +148,7 @@ Price
 Quantity
 Profit
 Category
+
 📊 Business Insights
 ✔ Laptop generates the highest profit.
 ✔ North region records the highest sales.
@@ -152,6 +156,7 @@ Category
 ✔ Customers Amit and Riya have the highest purchase values.
 ✔ Electronics products contribute the majority of sales.
 ✔ Average Order Value helps monitor customer spending behavior.
+
 📌 Skills Demonstrated
 Data Analytics
 Data Cleaning
@@ -176,6 +181,7 @@ Product Performance Analysis
 Regional Analysis
 Business Reporting
 Decision Support
+
 📷 Dashboard Components
 KPI Cards
 Column Charts
@@ -183,6 +189,7 @@ Bar Charts
 Pie Chart
 Donut Chart
 Interactive Dashboard Layout
+
 🎯 Project Objectives
 Analyze ecommerce business performance.
 Monitor sales trends.
@@ -202,6 +209,7 @@ Interactive Report Design
 Business Analytics
 KPI Development
 Data Visualization Best Practices
+
 📁 Project Structure
 Ecommerce-Sales-Dashboard/
 │
@@ -212,13 +220,11 @@ Ecommerce-Sales-Dashboard/
 └── LICENSE
 📸 Screenshot
 
-Add your dashboard screenshot here.
+Dashboard 
+![Uploading ecommerce sales analysis.png…]()
 
-Dashboard Screenshot.png
 
-or
 
-![Dashboard](Dashboard%20Screenshot.png)
 🔮 Future Improvements
 Add Date Slicers
 Monthly Sales Trend Analysis
